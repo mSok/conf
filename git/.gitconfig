@@ -1,0 +1,16 @@
+[user]
+	name = mi.sokoluk
+	email = sokolukm@gmail.com
+[merge]
+	tool = vimdiff
+[core]
+	editor = vim
+	autocrlf = true
+
+[alias]                                                                                                  
+        lg = log --graph --decorate --oneline                                                            
+        hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+        co = checkout
+        st = status      
+[push]
+	default = simple
