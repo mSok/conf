@@ -6,8 +6,8 @@
 
 - настройка ссылок:
   `cd ~
-  ln ~/config/vim/.vimrc .
-  ln ~/config/tmux/.tmux.conf .
-  ln ~/config/sh/.zshrc .
-  ln ~/config/git/.gitconfig .
+  ln ~/conf/vim/.vimrc .
+  ln ~/conf/tmux/.tmux.conf .
+  ln ~/conf/sh/.zshrc .
+  ln ~/conf/git/.gitconfig .
   `
